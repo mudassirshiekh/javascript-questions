@@ -52,6 +52,7 @@ From basic to advanced: test how well you know JavaScript, refresh your knowledg
 ---
 
 ###### 1. What's the output?
+## By Mudassir Alam
 
 ```javascript
 function sayHi() {
